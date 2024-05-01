@@ -1,0 +1,3 @@
+# Archivos para no mostrar
+.env
+node_modules/
